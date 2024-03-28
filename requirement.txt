@@ -1,0 +1,7 @@
+matplotlib==3.7.1
+json==2.0.9
+pandas==1.5.3
+re==2.2.1
+requests==2.31.0
+spacy==3.5.2
+streamlit==1.31.1
